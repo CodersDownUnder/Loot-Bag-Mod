@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lootbagmod",
+  "name": "Loot Bag Mod",
+  "description": "Ads a loot bag",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["trhod177"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
